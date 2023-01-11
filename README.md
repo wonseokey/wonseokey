@@ -1,2 +1,3 @@
-# 안녕하세요 이원석입니다
-## 늘 새로운 길을 찾아가는 개발자가 되겠습니다
+# Hello Everyone
+### This is wonseokey, Junior Backend Developer
+![#6DB33F]("https://img.shields.io/badge/<spring>-<boot>-<green>")
