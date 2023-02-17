@@ -6,5 +6,5 @@
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-yellow)
 ![PYTHON](https://img.shields.io/badge/PYTHON-blue)
 ![C/C++](https://img.shields.io/badge/C/C++-red)
-![JAVA](https://img.shields.io/badge/JAVA-white)
+![JAVA](https://img.shields.io/badge/JAVA-deepgreen)
 
