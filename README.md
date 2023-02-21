@@ -7,5 +7,6 @@
 ![PYTHON](https://img.shields.io/badge/PYTHON-blue)
 ![C/C++](https://img.shields.io/badge/C/C++-red)
 ![JAVA](https://img.shields.io/badge/JAVA-deepgreen)
-![SLACK](https://img.shields.io/badge/SLACK-rainbow)
+![SLACK](https://img.shields.io/badge/SLACK-purple)
+![Notion](https://img.shields.io/badge/NOTION-black)
 
